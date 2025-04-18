@@ -33,5 +33,5 @@ Este projeto é uma coleção de funções utilitárias simulando funcionalidade
 
 1. Clone este repositório:
    ```bash```
-   git clone https://github.com/seu-usuario/js-treino-moderno.git
-   cd js-treino-moderno
+   git clone https://github.com/RaphaVillela/treino-js.git
+   cd treino-js
